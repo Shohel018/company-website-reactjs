@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Shohel018/company-website-reactjs/static/css/main.104e501e.css",
+    "main.js": "/Shohel018/company-website-reactjs/static/js/main.093d1d24.js",
+    "static/media/logo.jpg": "/Shohel018/company-website-reactjs/static/media/logo.f8071260ad2a2dc26fa2.jpg",
+    "static/media/card3.png": "/Shohel018/company-website-reactjs/static/media/card3.6909c4ada4504482d7f1.png",
+    "static/media/img1.png": "/Shohel018/company-website-reactjs/static/media/img1.3f55b7b7762f8b209d54.png",
+    "static/media/card1.png": "/Shohel018/company-website-reactjs/static/media/card1.6d488956d03d0458af9b.png",
+    "static/media/card2.png": "/Shohel018/company-website-reactjs/static/media/card2.52f1e7a80ecc5ba2064c.png",
+    "static/media/address.webp": "/Shohel018/company-website-reactjs/static/media/address.9063eee97819e9023e59.webp",
+    "index.html": "/Shohel018/company-website-reactjs/index.html",
+    "main.104e501e.css.map": "/Shohel018/company-website-reactjs/static/css/main.104e501e.css.map",
+    "main.093d1d24.js.map": "/Shohel018/company-website-reactjs/static/js/main.093d1d24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.104e501e.css",
+    "static/js/main.093d1d24.js"
+  ]
+}
